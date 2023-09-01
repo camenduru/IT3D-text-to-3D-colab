@@ -16,4 +16,4 @@ https://arxiv.org/abs/2308.11473
 
 ## Output
 
-
+![50000fa3-951f-403a-b449-79f0a29f0df2](https://github.com/camenduru/IT3D-text-to-3D-colab/assets/54370274/d27fe851-4ed1-4988-af9a-cecd27221085)
